@@ -1,0 +1,58 @@
+html,
+body {
+  background-color: rgba(220, 220, 255, 0.8);
+  margin: 0px;
+}
+
+.Page {
+  font-family: sans-serif;
+  background-color: rgba(255, 255, 255, 1);
+
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 5px 10px rgba(100, 100, 100, 1);
+}
+
+.PageHeader {
+  background-color: rgb(10, 42, 102);
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.PageTitle {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+
+  color: white;
+}
+
+.PageSubTitle {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.3rem;
+  color: rgb(118, 199, 247);
+}
+
+.PageBody {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.PageSectionTitle {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.PageText {
+  font-family: "Open Sans", serif;
+  font-weight: lighter;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  text-align: justify;
+}
